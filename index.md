@@ -1,5 +1,7 @@
-layout: default
-title: The Stellar Archive
----
-# Welcome to the Stellar Archive
-Mapping the decoupling of Atoms and Paper. 
+<!DOCTYPE html>
+<html>
+<body>
+<h1>The Stellar Archive is Live.</h1>
+<p>Phase Change in Progress.</p>
+</body>
+</html>
